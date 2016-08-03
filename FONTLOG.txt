@@ -40,8 +40,9 @@ Source files:
 
 ChangeLog
 
-July 6, 2016 (Alexei Vanyashin) Bad Script v. 1.004
-- Added Cyrillic Characters for Google Cyrillic Plus support
+July 6–Aug 3, 2016 (Alexei Vanyashin) Bad Script v. 1.004
+- Added support for GF Cyrillic Plus
+- Added support for GF Latin Plus
 — Improved Spacing
 — Redrawn some characters
 — Added core kerning pairs
