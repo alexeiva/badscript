@@ -124,7 +124,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1455;
+value = 1323;
 },
 {
 name = winDescent;
@@ -137,6 +137,14 @@ value = 1323;
 {
 name = hheaDescender;
 value = -648;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = underlineThickness;
+value = 50;
 }
 );
 descender = -648;
