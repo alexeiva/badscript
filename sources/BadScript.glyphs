@@ -124,7 +124,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1323;
+value = 1455;
 },
 {
 name = winDescent;
@@ -145,6 +145,10 @@ value = -100;
 {
 name = underlineThickness;
 value = 50;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -648;
